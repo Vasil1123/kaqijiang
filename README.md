@@ -12,8 +12,6 @@
 <p align="center">
   嗨，我是AJ，一位充满激情面向google的开发人员🚀
 </p>
-![dark](dark.png)
-
 ![food](food.png)
 
 
