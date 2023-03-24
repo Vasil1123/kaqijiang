@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/kaqijiang"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/[Your GitHub Username]"></a>
-  <a href="mailto:kaqijiang@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="https://github.com/kaqijiang"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white&link=https://github.com/kaqijiang"></a>
+  <a href="mailto:kaqijiangATgmailDOTcom"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
 <div align="center">
