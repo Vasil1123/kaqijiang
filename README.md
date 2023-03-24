@@ -18,8 +18,6 @@
 
 ![dark](dark.png)
 
-![food](food.png)
-
 
 <div align="center">
     <h2>🛠️ 这些都不会 🛠️</h2>
@@ -49,6 +47,8 @@
     </p>
 </div>
 
+
+
 <div align="center">
 <h2>比较擅长</h2>
   <br />
@@ -60,3 +60,4 @@
 <img src="https://img.shields.io/badge/Ctrl--V-000000?style=flat-square&logo=windows-terminal&logoColor=white" alt="Ctrl+V" />
     <img src="https://img.shields.io/badge/-eat-brightgreen?style=flat-square&logo=leagueoflegends&logoColor=white" alt="eat" />
     <img src="https://img.shields.io/badge/-sleep-orange?style=flat-square&logo=leagueoflegends&logoColor=white" alt="sleep" />
+![food](food.png)
