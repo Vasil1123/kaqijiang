@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E6%9D%B0%E7%9A%84%E4%BA%BA%E7%94%9F%E8%B7%AF-brightgreen"></a>
+  <a href="#"><img src="https://img.shields.io/badge/公众号-阿杰与AI-brightgreen"></a>
   <a href="mailto:kaqijiangATgmailDOTcom"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 
